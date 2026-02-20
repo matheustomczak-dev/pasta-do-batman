@@ -1,5 +1,14 @@
 body{
    background-color: rgb(158, 0, 0); 
+color: rgb(243, 243, 243);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+background-image: url("assets/5.webp");
+background-size: cover;
+}
 
-
+img{
+width: 500px;
+height: 700px;
+border-radius: 100px;
 }
